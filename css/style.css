@@ -1,0 +1,60 @@
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    width: 15%;
+    height: auto;
+  }
+
+  .linkedin {
+    width: 2%;
+    height: auto;
+  }
+  .founder {
+    width: 20%;
+    height: auto;
+  }
+
+  .navigation {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navigation a, .navigation p {
+    margin-right: 20px; 
+    text-decoration: none;
+    color: black; 
+    font-weight: bold;
+  }
+  
+  .navigation a:last-child {
+    margin-right: 0;
+  }
+  
+  .navigation .linkedin {
+    margin-left: 20px; 
+  }
+  
+  .navigation a:hover {
+    color: #ff5500; 
+  }
+
+  ul.header {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+ul.header li {
+    margin-right: 10px;
+}
+
+ul.header li a {
+    text-decoration: none;
+    color: #333;
+}
