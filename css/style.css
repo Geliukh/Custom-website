@@ -44,17 +44,6 @@ img {
     color: #ff5500; 
   }
 
-  ul.header {
-    list-style: none;
-    padding: 0;
-    display: flex;
-}
-
-ul.header li {
-    margin-right: 10px;
-}
-
-ul.header li a {
-    text-decoration: none;
-    color: #333;
-}
+  .header {
+    
+  }
